@@ -62,9 +62,7 @@ chmod +x log_backup_saver.sh
 
 ./setup.sh
 
-
-
-!!! Limitations !!!
+## ⚠️ Limitations
 
 - By default, the script expects to be located in the home directoty (~/).
 - Needs sudo to access '/var/log'.
