@@ -63,7 +63,7 @@ sudo systemctl start cron
 3. Clone the repository: 
 
 ```bash
-git clone https://github.com/edimurg/log.archive.tool.git
+git clone https://github.com/edimurg/log_archive_tool.git
 ```
 ```bash
 cd Log_Backup_tool
