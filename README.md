@@ -54,7 +54,7 @@ sudo systemctl start cron
 
 3. Clone the repository: 
 
-git clone ...
+git clone [link]
 cd Log_Backup_tool
 
 
@@ -76,6 +76,22 @@ chmod +x log_backup_saver.sh
 
 - By default, the script expects to be located in the home directoty (~/).
 - Needs sudo to access '/var/log'.
+- Works only on Linux systems with cron.
+- Large logs may take time to compress.
+- You might need to put 'SHELL=/bin/bash' in the beginning of the crontab file (crontab -e)
+
+## 🤝 Contributing
+
+I'm open to suggestions, improvements, and contributions!
+If you have ideas or want to help improve this tool, feel free to:
+
+Open an issue for bugs or feature requests
+
+Submit a pull request with your changes
+
+Suggest edits to the README or documentation
+
+All contributions are welcome! 🔧📦
 - Works only on Linux systems with cron.
 - Large logs may take time to compress.
 - You might need to put 'SHELL=/bin/bash' in the beginning of the crontab file (crontab -e)
