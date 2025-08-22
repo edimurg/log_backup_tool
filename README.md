@@ -14,8 +14,9 @@
 
 [![Roadmap](https://img.shields.io/badge/Roadmap-View-blue)](https://roadmap.sh/projects/log-archive-tool)
 
-A simple Bash script that saves, compresses, and archives Linux log files automatically, at scheduled interals using **cron**.
+## Overview
 
+This is a simple Bash tool that automatically backs up, compresses and archives Linux log files. It is designed to be easy to use, and works on most Linux distributions. Ideal for users who want to keep their log files organized.
 
 ## ⚡ Features 
 
