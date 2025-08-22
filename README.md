@@ -12,6 +12,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![Roadmap](https://img.shields.io/badge/Roadmap-View-blue)](https://roadmap.sh/projects/log-archive-tool)
 
 A simple Bash script that saves, compresses, and archives Linux log files automatically, at scheduled interals using **cron**.
 
