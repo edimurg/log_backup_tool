@@ -12,7 +12,7 @@ backup () { #this is the actual backup utility
         
 	date=$(date +"%d.%m.%Y-%H_%M") # backup date
 	path=~/log_backup_$date        # backup path
-        final_path=~/Backups/log_backup_$date
+    final_path=~/Backups/log_backup_$date
 	mkdir $path                    # backup directory
 	cd /var/log && sudo cp -r * $path # copying logs from /var/log
 	sudo tar -czf $path.tar.gz $path &> /dev/null # compression and archieving
