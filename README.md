@@ -112,6 +112,3 @@ Submit a pull request with your changes
 Suggest edits to the README or documentation
 
 All contributions are welcome! 🔧📦
-- Works only on Linux systems with cron.
-- Large logs may take time to compress.
-- You might need to put 'SHELL=/bin/bash' in the beginning of the crontab file (crontab -e).
