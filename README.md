@@ -105,10 +105,10 @@ chmod +x log_backup_tool.sh
 I'm open to suggestions, improvements, and contributions!
 If you have ideas or want to help improve this tool, feel free to:
 
-Open an issue for bugs or feature requests
+- Open an issue for bugs or feature requests
 
-Submit a pull request with your changes
+- Submit a pull request with your changes
 
-Suggest edits to the README or documentation
+- Suggest edits to the README or documentation
 
-All contributions are welcome! 🔧📦
+- All contributions are welcome! 🔧📦
