@@ -26,7 +26,7 @@ This is a simple Bash tool that automatically backs up, compresses and archives 
 - 'bash'
 - 'notify-send'
 
-## 🚀 Instalation
+## 🚀 Installation
 
 1. Install dependencies: 
 ```bash
